@@ -1,6 +1,6 @@
 # Python Code Rizzler
 
-Python Code Rizzler is a GUI application that takes Python code as input, generates an obfuscated version of it, and can execute the obfuscated code. It uses a unique encoding scheme based on binary factorization and underscore variables. This project was inspired by the work of @PwnFunction.
+Python Code Rizzler is a GUI application that takes Python code as input, generates an obfuscated version of it, and can execute the obfuscated code. It uses a unique encoding scheme based on binary factorization and underscore variables. This project was inspired by the work of [@PwnFunction](https://github.com/PwnFunction/rizz-python).
 
 ## Features
 
